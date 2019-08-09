@@ -1,0 +1,12 @@
+pip install SpeechRecognition
+pip install gtts
+pip install playsound
+pip install googletrans
+
+[32 bit - python3.7]
+pip install PyAudio-0.2.11-cp37-cp37m-win32.whl
+[64 bit - python3.7]
+pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+
+download pyaudio:
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
